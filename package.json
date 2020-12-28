@@ -1,0 +1,27 @@
+{
+  "name": "sos-contador-node",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Pablom7908@bitbucket.org/Pablom7908/sos-contador-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Pablom7908/sos-contador-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-sql-tool": "^1.1.0",
+    "underscore": "^1.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

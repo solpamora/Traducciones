@@ -1,0 +1,13 @@
+[ 
+    { 
+        "codigo_iso": "AR-B", 
+        "alicuota": "4",
+        "monto_minimo_imponible": "2000"
+    },
+    { 
+        "codigo_iso": "AR-C", 
+        "alicuota": "4",
+        "monto_minimo_imponible": "2000"
+    }
+    ] 
+        

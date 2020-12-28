@@ -1,0 +1,60 @@
+[ 
+    { 
+        "importe_minimo": 0, 
+        "importe_maximo": 8000,
+        "importe_retener": 0,
+        "porcentaje_adicional": 5,
+        "importe_sobre_exceso": 0
+    }, 
+    { 
+        "importe_minimo": 8001, 
+        "importe_maximo": 16000,
+        "importe_retener": 400,
+        "porcentaje_adicional": 9,
+        "importe_sobre_exceso": 8000
+    }, 
+    { 
+        "importe_minimo": 16001, 
+        "importe_maximo": 24000,
+        "importe_retener": 1120,
+        "porcentaje_adicional": 12,
+        "importe_sobre_exceso": 16000
+    }, 
+    { 
+        "importe_minimo": 24001, 
+        "importe_maximo": 32000,
+        "importe_retener": 2080,
+        "porcentaje_adicional": 15,
+        "importe_sobre_exceso": 24000
+    }, 
+    { 
+        "importe_minimo": 32001, 
+        "importe_maximo": 48000,
+        "importe_retener": 3280,
+        "porcentaje_adicional": 19,
+        "importe_sobre_exceso": 32000
+    }, 
+    { 
+        "importe_minimo": 48001,
+        "importe_maximo": 64000,
+        "importe_retener": 6320,
+        "porcentaje_adicional": 23,
+        "importe_sobre_exceso": 48000
+    }, 
+    { 
+        "importe_minimo": 64001, 
+        "importe_maximo": 96000,
+        "importe_retener": 10000,
+        "porcentaje_adicional": 27,
+        "importe_sobre_exceso": 64000
+    }, 
+    { 
+        "importe_minimo": 96001, 
+        "importe_maximo": 0,
+        "importe_retener": 18640,
+        "porcentaje_adicional": 31,
+        "importe_sobre_exceso": 96000
+    }
+    
+    ] 
+        
