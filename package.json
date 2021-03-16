@@ -5,8 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js",
-    "start:dev": "nodemon index.js"
+    "start": "index.js",
+    "start:dev": "nodemon index.js",
+    "reinstall": "reinstall-node-modules"
   },
   "repository": {
     "type": "git",
@@ -17,11 +18,14 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/Pablom7908/sos-contador-node#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "json-sql-tool": "^1.1.0",
+    "request": "^2.88.2",
     "underscore": "^1.11.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "reinstall-node-modules": "^2.0.0"
   }
 }

@@ -2,162 +2,162 @@
     { 
         "codigo_regimen": 19, 
         "porcentaje_inscripto": 3,
-        "porcentaje_no_inscripto_comun": 10,
-        "porcentaje_no_inscripto_ph": 10,
+        "porcentaje_no_inscripto_no_phsi": 10,
+        "porcentaje_no_inscripto_phsi": 10,
         "monto_no_sujeto_retencion": 0
     }, 
     { 
         "codigo_regimen": 21, 
         "porcentaje_inscripto": 6,
-        "porcentaje_no_inscripto_comun": 25,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 25,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 7870
     } ,
     { 
         "codigo_regimen": 30, 
-        "porcentaje_inscripto": 7,
-        "porcentaje_no_inscripto_comun": 25,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_inscripto": 6,
+        "porcentaje_no_inscripto_no_phsi": 25,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 11200
     },
     { 
         "codigo_regimen": 31, 
         "porcentaje_inscripto": 7,
-        "porcentaje_no_inscripto_comun": 25,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 25,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 11200
     },
     { 
         "codigo_regimen": 32, 
         "porcentaje_inscripto": 7,
-        "porcentaje_no_inscripto_comun": 25,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 25,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 11200
     },
     { 
         "codigo_regimen": 35, 
         "porcentaje_inscripto": 6,
-        "porcentaje_no_inscripto_comun": 25,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 25,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 7870
     } ,
     { 
         "codigo_regimen": 43, 
         "porcentaje_inscripto": 6,
-        "porcentaje_no_inscripto_comun": 25,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 25,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 7870
     } ,
     { 
         "codigo_regimen": 51, 
         "porcentaje_inscripto": 6,
-        "porcentaje_no_inscripto_comun": 25,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 25,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 7870
     } ,
     { 
         "codigo_regimen": 78, 
         "porcentaje_inscripto": 2,
-        "porcentaje_no_inscripto_comun": 10,
-        "porcentaje_no_inscripto_ph": 10,
+        "porcentaje_no_inscripto_no_phsi": 10,
+        "porcentaje_no_inscripto_phsi": 10,
         "monto_no_sujeto_retencion": 224000
     } ,
     { 
         "codigo_regimen": 86, 
         "porcentaje_inscripto": 2,
-        "porcentaje_no_inscripto_comun": 10,
-        "porcentaje_no_inscripto_ph": 10,
+        "porcentaje_no_inscripto_no_phsi": 10,
+        "porcentaje_no_inscripto_phsi": 10,
         "monto_no_sujeto_retencion": 224000
     } ,
     { 
         "codigo_regimen": 110, 
         "porcentaje_inscripto": 0,
-        "porcentaje_no_inscripto_comun": 28,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 28,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 67170
     } ,
     { 
         "codigo_regimen": 94, 
         "porcentaje_inscripto": 2,
-        "porcentaje_no_inscripto_comun": 25,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 25,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 67170
     } ,
     { 
         "codigo_regimen": 25, 
         "porcentaje_inscripto": 0,
-        "porcentaje_no_inscripto_comun": 28,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 28,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 16830
     } ,
     { 
         "codigo_regimen": 116, 
         "porcentaje_inscripto": 0,
-        "porcentaje_no_inscripto_comun": 28,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 28,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 67170
     } ,
     { 
         "codigo_regimen": 124, 
         "porcentaje_inscripto": 0,
-        "porcentaje_no_inscripto_comun": 28,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 28,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 16830
     } ,
     { 
         "codigo_regimen": 95, 
         "porcentaje_inscripto": 0.25,
-        "porcentaje_no_inscripto_comun": 28,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 28,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 67170
     } ,
     { 
         "codigo_regimen": 53, 
         "porcentaje_inscripto": 0.50,
-        "porcentaje_no_inscripto_comun": 2,
-        "porcentaje_no_inscripto_ph": 2,
+        "porcentaje_no_inscripto_no_phsi": 2,
+        "porcentaje_no_inscripto_phsi": 2,
         "monto_no_sujeto_retencion": 0
     } ,
     { 
         "codigo_regimen": 55, 
         "porcentaje_inscripto": 0.50,
-        "porcentaje_no_inscripto_comun": 2,
-        "porcentaje_no_inscripto_ph": 2,
+        "porcentaje_no_inscripto_no_phsi": 2,
+        "porcentaje_no_inscripto_phsi": 2,
         "monto_no_sujeto_retencion": 0
     } ,
     { 
         "codigo_regimen": 111, 
         "porcentaje_inscripto": 0.50,
-        "porcentaje_no_inscripto_comun": 2,
-        "porcentaje_no_inscripto_ph": 2,
+        "porcentaje_no_inscripto_no_phsi": 2,
+        "porcentaje_no_inscripto_phsi": 2,
         "monto_no_sujeto_retencion": 0
     } ,
     { 
         "codigo_regimen": 112, 
         "porcentaje_inscripto": 3,
-        "porcentaje_no_inscripto_comun": 3,
-        "porcentaje_no_inscripto_ph": 3,
+        "porcentaje_no_inscripto_no_phsi": 3,
+        "porcentaje_no_inscripto_phsi": 3,
         "monto_no_sujeto_retencion": 16830
     } ,
     { 
         "codigo_regimen": 113, 
         "porcentaje_inscripto": 3,
-        "porcentaje_no_inscripto_comun": 3,
-        "porcentaje_no_inscripto_ph": 3,
+        "porcentaje_no_inscripto_no_phsi": 3,
+        "porcentaje_no_inscripto_phsi": 3,
         "monto_no_sujeto_retencion": 16830
     } ,
     { 
         "codigo_regimen": 779, 
         "porcentaje_inscripto": 2,
-        "porcentaje_no_inscripto_comun": 10,
-        "porcentaje_no_inscripto_ph": 10,
+        "porcentaje_no_inscripto_no_phsi": 10,
+        "porcentaje_no_inscripto_phsi": 10,
         "monto_no_sujeto_retencion": 76140
     } ,
     { 
         "codigo_regimen": 7870, 
         "porcentaje_inscripto": 2,
-        "porcentaje_no_inscripto_comun": 25,
-        "porcentaje_no_inscripto_ph": 28,
+        "porcentaje_no_inscripto_no_phsi": 25,
+        "porcentaje_no_inscripto_phsi": 28,
         "monto_no_sujeto_retencion": 31460
     } 
 ] 

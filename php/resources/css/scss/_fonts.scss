@@ -1,0 +1,59 @@
+.uppercase{ text-transform: uppercase;}
+.center{ text-align: center;}
+
+.font48 {font-size:48px;line-height: 1.1;}
+.font46 {font-size:46px;line-height: 1.1;}
+.font42 {font-size:42px;line-height: 1.1;}
+.font36 {font-size:36px;line-height: 1.1;}
+.font32 {font-size:32px;line-height: 1.1;}
+.font28 {font-size:28px;line-height: 1.1;}
+.font26 {font-size:26px;line-height: 1.1;}
+.font24 {font-size:24px;line-height: 1.1;}
+.font20 {font-size:20px;line-height: 1.1;}
+.font18 {font-size:18px;line-height: 1.1;}
+.font16 {font-size:16px;}
+.font15 {font-size:15px;}
+.font14 {font-size:14px;}
+.font13 {font-size:13px;}
+.font12 {font-size:12px;}
+.font11 {font-size:11px;}
+.font10 {font-size:10px;}
+.font9  {font-size:9px;}
+
+@font-face {
+    font-family: 'Helvetica Roman';
+    src: url('../fonts/HelveticaNeueLTStd-Roman.otf') ;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Helvetica Bold';
+    src: url('../fonts/HelveticaNeueLTStd-Bd.otf') ;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'TradeGothic BoldCon';
+    src: url('../fonts/TradeGothicLTStd-BdCn20.otf') ;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'TradeGothic Bold';
+    src: url('../fonts/TradeGothicLTStd-Bold.otf') ;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-helveticaroman{
+    font-family: 'Helvetica Roman';
+}
+.font-helveticabold{
+    font-family: 'Helvetica Bold';
+}
+.font-tradebold{
+    font-family: 'TradeGothic Bold';
+}
+.font-tradecon{
+    font-family: 'TradeGothic BoldCon';
+}

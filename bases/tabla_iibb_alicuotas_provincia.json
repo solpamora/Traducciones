@@ -6,7 +6,7 @@
     },
     { 
         "codigo_iso": "AR-C", 
-        "alicuota": "4",
+        "alicuota": "3.5",
         "monto_minimo_imponible": "2000"
     }
     ] 

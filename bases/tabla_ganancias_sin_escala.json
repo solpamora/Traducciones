@@ -50,7 +50,7 @@
     }, 
     { 
         "importe_minimo": 96001, 
-        "importe_maximo": 0,
+        "importe_maximo": 100000000,
         "importe_retener": 18640,
         "porcentaje_adicional": 31,
         "importe_sobre_exceso": 96000
