@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "json-sql-tool": "^1.1.0",
     "request": "^2.88.2",
-    "underscore": "^1.11.0"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4",
